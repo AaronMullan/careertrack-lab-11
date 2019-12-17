@@ -88,7 +88,7 @@ describe('event routes', () => {
   it('updates an itinerary by id', async() => {
     return request(app)
       .patch(`/api/v1/itineraries/${itinerary._id}`)
-      .send({ location: 'Central Park'})
+      .send({ location: 'Central Park' })
       .then(res => {
         expect(res.body).toEqual({
           _id: expect.any(String),
