@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<coverage generated="1576564299180" clover="3.2.0">
-  <project timestamp="1576564299180" name="All files">
+<coverage generated="1576564756114" clover="3.2.0">
+  <project timestamp="1576564756114" name="All files">
     <metrics statements="62" coveredstatements="52" conditionals="7" coveredconditionals="1" methods="22" coveredmethods="19" elements="91" coveredelements="72" complexity="0" loc="62" ncloc="62" packages="5" files="8" classes="8"/>
     <package name="lib">
       <metrics statements="8" coveredstatements="8" conditionals="0" coveredconditionals="0" methods="0" coveredmethods="0"/>
@@ -43,7 +43,7 @@
         <metrics statements="3" coveredstatements="3" conditionals="0" coveredconditionals="0" methods="0" coveredmethods="0"/>
         <line num="1" count="3" type="stmt"/>
         <line num="3" count="3" type="stmt"/>
-        <line num="20" count="3" type="stmt"/>
+        <line num="19" count="3" type="stmt"/>
       </file>
       <file name="Trip.js" path="/Users/aaronmullan/alchemy/careertrack/lab11/lib/models/Trip.js">
         <metrics statements="3" coveredstatements="3" conditionals="0" coveredconditionals="0" methods="0" coveredmethods="0"/>
